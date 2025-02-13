@@ -17,5 +17,10 @@ namespace NFreeRDP
 			Application.SetCompatibleTextRenderingDefault(false);
 			Application.Run(new MainWindow());
 		}
+		int a = 4;
+		int b = 5;
+		int sum = a + b;
+		Console.WriteLine("The sum of two numbers is: + sum");S
 	}
+	
 }
